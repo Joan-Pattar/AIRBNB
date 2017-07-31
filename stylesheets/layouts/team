@@ -1,0 +1,20 @@
+.title {
+  padding: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 20px; }
+
+.text-center img {
+  border-radius: 100px;
+  width: 150px; }
+
+.text-name {
+  padding: 30px;
+  font-weight: lighter;
+  color: gray;
+  font-size: 15px; }
+
+.fa-github:hover {
+  color: #da552f;
+  text-decoration: none;
+  cursor: pointer; }
